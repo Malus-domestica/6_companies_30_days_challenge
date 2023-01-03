@@ -1,3 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     void findSum(int last, vector<bool> &viz, vector<int> &sub_vector, vector<vector<int>> &output, int n, int k)
